@@ -1,6 +1,7 @@
 
-// Some list related funtions immitating a standard library
+export type List<Type> = Type[]
 
+// Some list related funtions immitating a standard library
 export namespace List {
 
     // replace each element of a list

@@ -1,4 +1,5 @@
 
+// todo: replace all array instances with custom list library
 class GenericSet<Type> {
     private values: Array<Type>
 
